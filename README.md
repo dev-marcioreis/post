@@ -2,7 +2,7 @@
 
 ---
 
-Este projeto será uma ferramenta para genciamento de publicações.<br>
+Este projeto será uma ferramenta para gerenciamento de publicações.<br>
 Poderá criar uma publicação, editar, deletar, add usuário, editar usuário e excluir usuário.<br>
 O backend será em PHP e MySQL.
 

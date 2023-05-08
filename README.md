@@ -6,7 +6,7 @@ Este projeto será uma ferramenta para gerenciamento de publicações.<br>
 Poderá criar uma publicação, editar, deletar, add usuário, editar usuário, excluir usuário, definir se será usuário adm ou não e add categorias e editar também.<br>
 O backend será em PHP e MySQL.
 
-## 🚀 50% Em desenvolvimento...
+## 🚀 35% Finalizado...
 
 ## 📋 Tecnologias
 HTML + CSS + JavaScript + PHP + MySQL
